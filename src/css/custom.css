@@ -1,0 +1,13 @@
+header {
+  display: none;
+}
+
+.tr_header {
+  padding: 20px;
+  height: 80px;
+  display: grid;
+}
+
+.tr_header_span {
+  margin: auto;
+}
