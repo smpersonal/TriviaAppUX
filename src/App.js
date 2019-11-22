@@ -95,10 +95,6 @@ class App extends Component {
                   <div>"Quiz New Game Button"</div>
                   <div>"Session Score" </div>
                   <div> "Quiz QA" </div>
-                  <Setup
-                    questionsArray={questionsArray}
-                    addQuestionsToArray={addQuestionsToArray}
-                  />
                 </div>
               )}
             {/*  */}
